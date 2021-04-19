@@ -1,12 +1,11 @@
 ### Hi 👋, my name is Stefano Cecere and welcome to my public repositories.
 i'm a game R&D and educator in the intersection of Philosophy, Games and Technology.
-when i'll die i'll make public also the many brainy private repositories i'm working on.
 
 ## Where to find me
- - Website / Blog [stefanocecere.com](https://stefano.cecere.org)
- - Twitter : [StefanoCecere](https://twitter.com/StefanoCecere)
- - LinkedIn : [stefanocecere](https://www.linkedin.com/in/stefanocecere)
- - Facebook : [StefanoCecere](https://www.facebook.com/StefanoCecere)
+ - [stefano.cecere.org](https://stefano.cecere.org)
+ - [twitter.com/StefanoCecere](https://twitter.com/StefanoCecere)
+ - [linkedin.com/in/stefanocecere](https://www.linkedin.com/in/stefanocecere)
+ - [facebook.com/StefanoCecere](https://www.facebook.com/StefanoCecere)
 
 ![image](https://github.com/StefanoCecere/StefanoCecere/blob/master/dino.gif)
 
