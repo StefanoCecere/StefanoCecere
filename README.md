@@ -2,7 +2,7 @@
 i'm a game R&D and educator in the intersection of Philosophy, Games and Technology.
 
 ## Where to find me
- - [stefano.cecere.org](https://stefano.cecere.org)
+ - [stefanocecere.com](https://stefanocecere.com)
  - [twitter.com/StefanoCecere](https://twitter.com/StefanoCecere)
  - [linkedin.com/in/stefanocecere](https://www.linkedin.com/in/stefanocecere)
  - [facebook.com/StefanoCecere](https://www.facebook.com/StefanoCecere)
