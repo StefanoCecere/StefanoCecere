@@ -1,6 +1,3 @@
-prova
-
-
 ### Hi 👋, my name is Stefano Cecere and welcome to my public repositories.
 i'm a game R&D and educator in the intersection of Philosophy, Games and Technology.
 
