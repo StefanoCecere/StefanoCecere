@@ -12,7 +12,7 @@ i'm a R&D and activist in the intersection of Education, Games and Politics.
   <img alt="github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=StefanoCecere&hide_border=true" />
 </p>
 
-[image](https://github.com/StefanoCecere/StefanoCecere/blob/master/dino.gif)
+![image](https://github.com/StefanoCecere/StefanoCecere/blob/master/dino.gif)
 
 <!--
 **StefanoCecere/StefanoCecere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
