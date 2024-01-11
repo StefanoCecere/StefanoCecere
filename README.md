@@ -8,9 +8,7 @@ i'm a R&D and activist in the intersection of Education, Games and Politics.
  - [twitter.com/StefanoCecere](https://twitter.com/StefanoCecere)
  - [linkedin.com/in/stefanocecere](https://www.linkedin.com/in/stefanocecere)
 
-<p align="center">
- ![GitHub Streak](https://streak-stats.demolab.com/?user=StefanoCecere)
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=StefanoCecere)
 
 ![image](https://github.com/StefanoCecere/StefanoCecere/blob/master/dino.gif)
 
